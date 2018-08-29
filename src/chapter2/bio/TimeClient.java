@@ -1,4 +1,4 @@
-package chapter2.nio;
+package chapter2.bio;
 
 import java.io.BufferedReader;
 import java.io.IOException;
