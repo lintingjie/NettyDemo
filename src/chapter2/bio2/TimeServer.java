@@ -1,5 +1,4 @@
 package chapter2.bio2;
-<<<<<<< HEAD
 
 import chapter2.bio.TimeServerHandler;
 
