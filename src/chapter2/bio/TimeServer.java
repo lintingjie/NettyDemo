@@ -1,10 +1,11 @@
-package chapter2.nio;
+package chapter2.bio;
 
 import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
 
 /**
+ * 同步阻塞IO的客户端
  * Created by ltj on 18-8-27
  */
 public class TimeServer {

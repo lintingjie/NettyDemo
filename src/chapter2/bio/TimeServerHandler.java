@@ -1,4 +1,4 @@
-package chapter2.nio;
+package chapter2.bio;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -8,6 +8,7 @@ import java.net.Socket;
 import java.util.Date;
 
 /**
+ * 同步阻塞IO的TimeServerHandler
  * Created by ltj on 18-8-28
  */
 public class TimeServerHandler implements Runnable {
