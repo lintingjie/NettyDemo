@@ -1,10 +1,12 @@
 package chapter2.bio2;
+<<<<<<< HEAD
 
 import chapter2.bio.TimeServerHandler;
 
 import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
+
 
 /**
  * 伪异步IO的TimeServer
